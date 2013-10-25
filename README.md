@@ -1,0 +1,4 @@
+counter-strike
+==============
+
+some scripts
